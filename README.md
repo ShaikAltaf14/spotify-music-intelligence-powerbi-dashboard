@@ -1,15 +1,15 @@
- Spotify-dashboard
+**### Spotify-dashboard**
 
 
-
- 1. Project Title / Headline
+**
+ 1. Project Title / Headline**
 🎵 Spotify Insights: Global Music Streaming Analytics Dashboard
 A dynamic, interactive data visualization tool built to explore Spotify streaming data worldwide—focusing on artist popularity, track performance, regional music preferences, and listener engagement trends.
 
-2. Short Description / Purpose
+**2. Short Description / Purpose**
 The Spotify Insights Dashboard is a visually engaging and analytical Power BI report designed to help users explore and analyze music streaming patterns across millions of songs, artists, and listeners globally. The dashboard focuses on highlighting key metrics like stream counts, artist reach, genre trends, and regional listening preferences. This tool is intended for music analysts, record labels, playlist curators, independent artists, and data-driven strategists seeking to understand global music streaming trends.
 
- 3. Tech Stack
+** 3. Tech Stack**
 The dashboard was built using the following tools and technologies:<br>
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 • 📂 Power Query – Data transformation and cleaning layer for reshaping Spotify data.<br>
@@ -18,12 +18,12 @@ The dashboard was built using the following tools and technologies:<br>
 • 🎵 Spotify API – Data source for streaming information.<br>
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Data Source
+**4. Data Source**
 Source: Spotify Web API & Spotify for Artists.
 
 Data on millions of tracks, thousands of artists, and billions of streams worldwide, including track metadata (name, artist, genre, duration), streaming metrics (play counts, listener demographics), release dates, and regional listening preferences across 190+ countries.
-
- 5. Features / Highlights
+**
+ 5. Features / Highlights**
 
 **Business Problem**
 The global music streaming industry lacks accessible tools for analyzing performance, identifying trends, and understanding listener demographics. Artists, labels, and analysts struggle to answer key questions about regional popularity, genre trends, and emerging artists.
@@ -49,5 +49,5 @@ To deliver an interactive visual tool that enables music professionals to explor
 - Playlist Curation: Make data-driven editorial decisions
 - A&R Decisions: Discover emerging artists with momentum
 
- 6. Screenshots / Demos
-![Dashboard Preview]()
+** 6. Screenshots / Demos**
+![Dashboard Preview](https://github.com/ShaikAltaf14/Spotify-Music-Intelligence-Dashboard-powerbi-dax-/blob/main/end%20to%20end%20spotify%20dashboard.png)
